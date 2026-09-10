@@ -1,0 +1,1 @@
+Add transparent full-body PNGs: adam, aaliyah, alma, ariana, genevieve, jackie, jane, jennifer, john, katie-b, katie-e, loree, moria, stephanie, taylor (each with .png extension). Missing images use cake illustrations. Rebuild and sync cabinet. Gameplay color selection is preserved.

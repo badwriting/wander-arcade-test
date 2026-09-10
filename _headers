@@ -1,0 +1,11 @@
+/*
+  Cache-Control: no-cache
+
+/audio/*
+  Cache-Control: public, max-age=604800
+
+/images/*
+  Cache-Control: public, max-age=86400
+
+/games/*
+  Cache-Control: public, max-age=3600
